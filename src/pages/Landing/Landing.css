@@ -1,0 +1,29 @@
+.opening {
+  max-width: 90%;
+  margin: 5rem auto;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
+.opening-p1 {
+  font-weight: bold;
+  font-size: 2.5em;
+}
+
+.opening-p2 {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.start-button {
+  cursor: pointer;
+  background-color: #fde975;
+  font-size: 1.5em;
+  border: none;
+  margin-top: 3rem;
+  padding: 1rem;
+}
